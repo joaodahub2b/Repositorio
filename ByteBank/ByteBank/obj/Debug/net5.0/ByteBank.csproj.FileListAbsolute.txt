@@ -1,0 +1,16 @@
+G:\Meu Drive\Programas\ByteBank\ByteBank\bin\Debug\net5.0\ByteBank.exe
+G:\Meu Drive\Programas\ByteBank\ByteBank\bin\Debug\net5.0\ByteBank.deps.json
+G:\Meu Drive\Programas\ByteBank\ByteBank\bin\Debug\net5.0\ByteBank.runtimeconfig.json
+G:\Meu Drive\Programas\ByteBank\ByteBank\bin\Debug\net5.0\ByteBank.runtimeconfig.dev.json
+G:\Meu Drive\Programas\ByteBank\ByteBank\bin\Debug\net5.0\ByteBank.dll
+G:\Meu Drive\Programas\ByteBank\ByteBank\bin\Debug\net5.0\ref\ByteBank.dll
+G:\Meu Drive\Programas\ByteBank\ByteBank\bin\Debug\net5.0\ByteBank.pdb
+G:\Meu Drive\Programas\ByteBank\ByteBank\obj\Debug\net5.0\ByteBank.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Programas\ByteBank\ByteBank\obj\Debug\net5.0\ByteBank.AssemblyInfoInputs.cache
+G:\Meu Drive\Programas\ByteBank\ByteBank\obj\Debug\net5.0\ByteBank.AssemblyInfo.cs
+G:\Meu Drive\Programas\ByteBank\ByteBank\obj\Debug\net5.0\ByteBank.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Programas\ByteBank\ByteBank\obj\Debug\net5.0\ByteBank.dll
+G:\Meu Drive\Programas\ByteBank\ByteBank\obj\Debug\net5.0\ref\ByteBank.dll
+G:\Meu Drive\Programas\ByteBank\ByteBank\obj\Debug\net5.0\ByteBank.pdb
+G:\Meu Drive\Programas\ByteBank\ByteBank\obj\Debug\net5.0\ByteBank.genruntimeconfig.cache
+G:\Meu Drive\Programas\ByteBank\ByteBank\obj\Debug\net5.0\ByteBank.csproj.AssemblyReference.cache
