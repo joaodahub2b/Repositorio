@@ -14,22 +14,56 @@ namespace ByteBank.Funcionarios
         public string dataNascimento { get; set; }
         public double salario { get; set; }
         public int tipoFuncionario { get; set; }
+        public int situacaoFuncionario { get; set; }
+
         public static int contadorCodigo = 1;
-        public Funcionario(string nome, string cpf, string dataNascimento, double salario)
+
+        public Funcionario() { }
+
+        public Funcionario(string nome, string cpf, string dataNascimento, int tipoFuncionario)
         {
-            this.salario = salario;
+            this.configurarSalario(tipoFuncionario);
             this.nome = nome;
             this.cpf = cpf;
             this.dataNascimento = dataNascimento;
-            this.codigo = 1;
+            this.codigo = contadorCodigo;
             contadorCodigo++;
+            this.tipoFuncionario = tipoFuncionario;
+            this.situacaoFuncionario = 1;
         }
 
+        public void configurarSalario(int tipoFuncionario)
+        {
+            if(tipoFuncionario == 1)
+            {
+                this.salario = 5000;
+            }
+            else if (tipoFuncionario == 2)
+            {
+                this.salario = 8000;
+            }
+            else if (tipoFuncionario == 3)
+            {
+                this.salario = 5500;
+            }
+            else if (tipoFuncionario == 4)
+            {
+                this.salario = 4500;
+            }
+            else if (tipoFuncionario == 5)
+            {
+                this.salario = 3000;
+            }
+        }
         public bool AlterarSalario(Funcionario f, double novoSalario)
         {
             f.salario = novoSalario;
-            Console.WriteLine("Sucesso");
             return true;
+        }
+
+        public void DesligarFuncionario(Funcionario f)
+        {
+            f.situacaoFuncionario = 0;
         }
     }
 }
