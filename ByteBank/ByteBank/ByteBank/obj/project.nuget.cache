@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "g6Ys5+iZcfzwtJM/szFAhn8aK2TLpiYNuWQCzRNNU9FN7piJD7biIur9oRKGkJ7NYFTNDEU2h0aZfO54Cvd87w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\João Marcos\\Documents\\Programas\\Repositorio-main\\Repositorio-main\\ByteBank\\ByteBank\\ByteBank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\João Marcos\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
