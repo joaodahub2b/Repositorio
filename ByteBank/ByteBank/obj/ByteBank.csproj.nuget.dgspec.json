@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Meu Drive\\Programas\\ByteBank\\ByteBank\\ByteBank.csproj": {}
+    "C:\\Users\\João Marcos\\source\\repos\\Teste 2\\ByteBank\\ByteBank\\ByteBank.csproj": {}
   },
   "projects": {
-    "G:\\Meu Drive\\Programas\\ByteBank\\ByteBank\\ByteBank.csproj": {
+    "C:\\Users\\João Marcos\\source\\repos\\Teste 2\\ByteBank\\ByteBank\\ByteBank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Meu Drive\\Programas\\ByteBank\\ByteBank\\ByteBank.csproj",
+        "projectUniqueName": "C:\\Users\\João Marcos\\source\\repos\\Teste 2\\ByteBank\\ByteBank\\ByteBank.csproj",
         "projectName": "ByteBank",
-        "projectPath": "G:\\Meu Drive\\Programas\\ByteBank\\ByteBank\\ByteBank.csproj",
-        "packagesPath": "C:\\Users\\João Marcos Carniel\\.nuget\\packages\\",
-        "outputPath": "G:\\Meu Drive\\Programas\\ByteBank\\ByteBank\\obj\\",
+        "projectPath": "C:\\Users\\João Marcos\\source\\repos\\Teste 2\\ByteBank\\ByteBank\\ByteBank.csproj",
+        "packagesPath": "C:\\Users\\João Marcos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\João Marcos\\source\\repos\\Teste 2\\ByteBank\\ByteBank\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\João Marcos Carniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\João Marcos\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -56,7 +52,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[5.0.13, 5.0.13]"
+              "version": "[5.0.12, 5.0.12]"
             }
           ],
           "frameworkReferences": {
@@ -64,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

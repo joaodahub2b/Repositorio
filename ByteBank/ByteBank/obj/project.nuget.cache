@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "9Mo2NwngEuiiWwO4qBuo+T+nGj2lAxynTbs+k1ItFa8tS7ivUn4gO5OnGv4VE8oGFoor5wKnTaVLNCV2/SjBNg==",
+  "dgSpecHash": "Dj84DjO2LNkdCkgC/V6iMXGc2EcPK7vg/tgteY1fWbPkq0T7uMvqyL4v2PXy6I78fi2VoQ6q7X/iv3NDimMeoA==",
   "success": true,
-  "projectFilePath": "G:\\Meu Drive\\Programas\\ByteBank\\ByteBank\\ByteBank.csproj",
+  "projectFilePath": "C:\\Users\\João Marcos\\source\\repos\\Teste 2\\ByteBank\\ByteBank\\ByteBank.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\João Marcos Carniel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+    "C:\\Users\\João Marcos\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
   ],
   "logs": []
 }
